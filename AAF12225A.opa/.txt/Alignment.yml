@@ -1,0 +1,6 @@
+segment_sources:
+  P16A21E23:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs: {}
